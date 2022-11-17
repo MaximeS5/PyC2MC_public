@@ -1,3 +1,2 @@
 # PyC2MC_public
-To be released soon !
-Contact : maxime.sueur1@univ-rouen.fr
+Moved to the joint lab rep : https://github.com/iC2MC/PyC2MC_viewer
